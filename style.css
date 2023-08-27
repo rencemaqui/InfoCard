@@ -1,0 +1,14 @@
+
+.gradient-custom {
+    /* fallback for old browsers */
+    background: #6a65f6;
+    
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right bottom, rgb(147, 148, 218), rgb(179, 239, 247));
+    
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right bottom, rgb(15, 72, 156), rgb(18, 88, 154))
+    }
+    #socmed{
+        text-decoration: none;
+    }
